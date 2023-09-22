@@ -1,0 +1,45 @@
+* {
+  background-color: #999;
+}
+
+.todo-create {
+  width: 18rem;
+  margin: auto;
+}
+
+.App {
+  margin-top: 5rem;
+}
+
+.todo-input {
+  background-color: white;
+  border: none;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.todo-submit {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 0.5rem 0.5rem;
+}
+
+.todo-wrapper {
+  width: 50rem;
+  margin: 4rem auto;
+}
+
+.todo {
+  margin: 0.8rem 0;
+}
+
+.todo-title {
+  font-style: bold;
+  font-size: 1.5rem;
+}
+
+.checked {
+  text-decoration: line-through;
+  color: red;
+}
